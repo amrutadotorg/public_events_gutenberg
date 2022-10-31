@@ -1,0 +1,33 @@
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/Jh3fvle0jKQ
+</div><figcaption>Левая сторона, проблемы подсознания</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/BKExtYE_-Mk
+</div><figcaption>Публичная программа. Советы для правой стороны. Вы должны стать Духом</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/BTCQ21_p46I
+</div><figcaption>Публичная программа. Советы для правой стороны. Вы должны стать Духом</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/wtFSBw-F9BE
+</div><figcaption>Публичная программа. Смятение — тонкое рабство</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/9ecKEjMwSIQ
+</div><figcaption>Агния чакра – врата в рай</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/MSj-OKdJVxI
+</div><figcaption>Публичная программа. Противление Божественной воле</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/D9BD4BlVLHM
+</div><figcaption>Публичная программа. Истина имеет две стороны</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/dBUbwckpOMQ
+</div><figcaption>Публичная программа. Пробуждение Кундалини (день 1)</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/EtDyyadvAq0
+</div><figcaption>Публичная программа. Пробуждение Кундалини (день 2)</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/ALk5F8jsz9w
+</div><figcaption>Публичная программа, Филадельфия, США, 15 октября 1993</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/ZFOgHAA-svU
+</div><figcaption>Публичная программа</figcaption></figure>

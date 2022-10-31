@@ -1,0 +1,6 @@
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/252871266
+</div><figcaption>Публічна програма, Сум’яття: тонке рабство</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/483616158
+</div><figcaption>Interview with Shri Mataji</figcaption></figure>

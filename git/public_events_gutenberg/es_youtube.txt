@@ -1,0 +1,45 @@
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/Jh3fvle0jKQ
+</div><figcaption>Programa público: “El lado izquierdo, problemas del subconsciente”</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/BKExtYE_-Mk
+</div><figcaption>Programa público: “Consejos sobre el lado derecho”</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/BTCQ21_p46I
+</div><figcaption>Programa público: “Consejos sobre el lado derecho”</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/wtFSBw-F9BE
+</div><figcaption>Programa público: “Confusión: la Esclavitud Sutil”</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/GpoZn324GGk
+</div><figcaption>Programa público: “Del Muladhara al Vacío”</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/shAECwIaurU
+</div><figcaption>Programa público: “Del Muladhara al Vacío”</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/W7ShMfYCF2c
+</div><figcaption>Programa público: “Del Anahata al Sahasrara”</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/9ecKEjMwSIQ
+</div><figcaption>Agnya chakra, la puerta al cielo</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/fUlVB19xEhI
+</div><figcaption>Programa público, segundo día</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/rD-7ODRVxZg
+</div><figcaption>Programa público: “Necesidad de la Realización”.</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/qBqEAr74Guc
+</div><figcaption>1er programa público en Praga.</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/m9Qx8eWbs0k
+</div><figcaption>2º programa público en Praga.</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/dBUbwckpOMQ
+</div><figcaption>1er. programa público en Madrás.</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/EtDyyadvAq0
+</div><figcaption>2º programa público en Madrás.</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/tAXo8uU0QRc
+</div><figcaption>Cuarta conferencia internacional sobre la mujer</figcaption></figure>

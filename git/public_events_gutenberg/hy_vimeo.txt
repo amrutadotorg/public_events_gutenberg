@@ -1,0 +1,9 @@
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88503628
+</div><figcaption>Հասարակական ծրագիր։ Մուլադհարայից Վոյդ։</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88520478
+</div><figcaption>Հասարակական ծրագիր։ Մուլադհարայից Վոյդ։</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/712046024
+</div><figcaption>Հարցազրույց Ռեյ Մարտինի հետ Համար Ինը Հեռուստատեսությամբ</figcaption></figure>

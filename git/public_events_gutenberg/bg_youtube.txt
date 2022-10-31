@@ -1,0 +1,24 @@
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/Jh3fvle0jKQ
+</div><figcaption>Публична програма ден 1, Лявата страна, Проблеми на подсъзнанието</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/BKExtYE_-Mk
+</div><figcaption>Публична програма ден 2, Съвети за Дясната страна</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/BTCQ21_p46I
+</div><figcaption>Публична програма ден 2, Съвети за Дясната страна</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/wtFSBw-F9BE
+</div><figcaption>Public Program, Confusion: the Subtle Slavery</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/W7ShMfYCF2c
+</div><figcaption>Анахата, Вишудхи и Агнйа, Публична програма</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/sT-UacXdkKI
+</div><figcaption>Public Program</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/dBUbwckpOMQ
+</div><figcaption>Public Program Day 1</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/EtDyyadvAq0
+</div><figcaption>Public Program Day 2</figcaption></figure>

@@ -1,0 +1,54 @@
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88523095
+</div><figcaption>Muladhara i Swadhiszthana</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/146407138
+</div><figcaption>Lewa Strona – Problemy Podświadomości</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/155134424
+</div><figcaption>Prawa Strona</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/333502937
+</div><figcaption>Prawa Strona</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88511812
+</div><figcaption>Centralny Kanał</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/252871266
+</div><figcaption>Zamieszanie: Subtelne Niewolnictwo</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88503628
+</div><figcaption>Od Mooladhary do Voidu</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88520478
+</div><figcaption>Od Mooladhary do Voidu</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88526096
+</div><figcaption>Od Serca do Sahasrara</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/198965881
+</div><figcaption>Duch rezyduje w Tobie</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/104918755
+</div><figcaption>Konferenja Prasowa</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/104924604
+</div><figcaption>Konferenja Prasowa</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/122436823
+</div><figcaption>Postępowanie wbrew woli Bożej</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/221115334
+</div><figcaption>Wywiad w Telewizji</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/285207650
+</div><figcaption>Publiczny Program Dzień 1</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/285206658
+</div><figcaption>Publiczny Program Dzień 2</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88518832
+</div><figcaption>Publiczny Program</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88576518
+</div><figcaption>Publiczny Program</figcaption></figure>

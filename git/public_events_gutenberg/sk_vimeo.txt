@@ -1,0 +1,9 @@
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/104929824
+</div><figcaption>Verejný program, 1.deň, Pravda má dve strany</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/285207650
+</div><figcaption>Prvý verejný program</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/285206658
+</div><figcaption>Druhý Verejný Program</figcaption></figure>

@@ -1,0 +1,60 @@
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88523095
+</div><figcaption>2.veřejný program, 25/03/1981, Sydney, Austrálie</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/344795420
+</div><figcaption>3.veřejný program, 27/03/1981, Maccabean Hall, Sydney, Austrálie,</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/146407138
+</div><figcaption>Rady na levou stranu, 13/05/1982, (nekontrolováno), Brighton, Anglie,</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/155134424
+</div><figcaption>Rady na pravou stranu, 14/05/1982, Brighton, Anglie,</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/333502937
+</div><figcaption>Rady na pravou stranu, 14/05/1982, Brighton, Anglie,</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/252871266
+</div><figcaption>Jemný systém, 09/07/1982, (nekontrolováno), Birmingham, Anglie,</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88503628
+</div><figcaption>Od Múladháry k Voidu, 10/07/1982, (nekontrolováno), Birmingham, Anglie,</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88520478
+</div><figcaption>Od Múladháry k Voidu, 10/07/1982, (nekontrolováno), Birmingham, Anglie,</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88526096
+</div><figcaption>Od Anaháty k Sahasráře, 11/07/1982, (nekontrolováno), Birmingham, Anglie</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/198965881
+</div><figcaption>1.veřejný program, 26/09/1982, (nekontrolováno), Vídeň, Rakousko</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88500730
+</div><figcaption>Veřejný program 07/08/1984, Bath, Anglie</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/104929824
+</div><figcaption>Veřejný program,  11/06/1985, Švýcarsko (nekontrolováno)</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/285207650
+</div><figcaption>1.veřejný program v Praze, 17/11/1991, Československo</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/285206658
+</div><figcaption>2. veřejný program v Praze, 18/08/1991, Československo</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88518832
+</div><figcaption>1.veřejný program 06/11/1991 (nekontrolováno), Indie</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88576518
+</div><figcaption>2.veřejný program 07/12/1982, (nekontrolováno), Indie</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/148096094
+</div><figcaption>Audrey Hope – Real Women 1.část</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/148096867
+</div><figcaption>Audrey Hope – Real Women 2.část</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/148096826
+</div><figcaption>Audrey Hope – Real Women 3.část</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88508366
+</div><figcaption>Konference s lékaři 02/04/2002</figcaption></figure>

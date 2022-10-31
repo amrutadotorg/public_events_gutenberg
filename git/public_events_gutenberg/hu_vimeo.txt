@@ -1,0 +1,18 @@
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/146407138
+</div><figcaption>A baloldal – a tudatalatti problémái</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/155134424
+</div><figcaption>Nyilvános program 2. nap, Tanácsok a jobb oldallal kapcsolatban, Hogyan váljunk a tiszta Lélekké?</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/333502937
+</div><figcaption>Nyilvános program 2. nap, Tanácsok a jobb oldallal kapcsolatban, Hogyan váljunk a tiszta Lélekké?</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88503628
+</div><figcaption>Nyilvános program, Muladharától a Voidig</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88520478
+</div><figcaption>Nyilvános program, Muladharától a Voidig</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+https://vimeo.com/88517349
+</div><figcaption>A feltámadás ideje</figcaption></figure>

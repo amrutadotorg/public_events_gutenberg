@@ -1,0 +1,9 @@
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/GpoZn324GGk
+</div><figcaption>Հասարակական ծրագիր։ Մուլադհարայից Վոյդ։</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/shAECwIaurU
+</div><figcaption>Հասարակական ծրագիր։ Մուլադհարայից Վոյդ։</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/GtFpKqsanJY
+</div><figcaption>Հարցազրույց Ռեյ Մարտինի հետ Համար Ինը Հեռուստատեսությամբ</figcaption></figure>

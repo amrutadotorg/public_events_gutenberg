@@ -1,0 +1,54 @@
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/m_QgpYgN7gQ
+</div><figcaption>Muladhara i Swadhiszthana</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/Jh3fvle0jKQ
+</div><figcaption>Lewa Strona – Problemy Podświadomości</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/BKExtYE_-Mk
+</div><figcaption>Prawa Strona</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/BTCQ21_p46I
+</div><figcaption>Prawa Strona</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/xm3GYrXR2d8
+</div><figcaption>Centralny Kanał</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/wtFSBw-F9BE
+</div><figcaption>Zamieszanie: Subtelne Niewolnictwo</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/GpoZn324GGk
+</div><figcaption>Od Mooladhary do Voidu</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/shAECwIaurU
+</div><figcaption>Od Mooladhary do Voidu</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/W7ShMfYCF2c
+</div><figcaption>Od Serca do Sahasrara</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/sUh3F6VvoBM
+</div><figcaption>Duch rezyduje w Tobie</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/zmE1IEwM2C4
+</div><figcaption>Konferenja Prasowa</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/PoNegLY0rkU
+</div><figcaption>Konferenja Prasowa</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/MSj-OKdJVxI
+</div><figcaption>Postępowanie wbrew woli Bożej</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/FRfHpukSGq0
+</div><figcaption>Wywiad w Telewizji</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/qBqEAr74Guc
+</div><figcaption>Publiczny Program Dzień 1</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/m9Qx8eWbs0k
+</div><figcaption>Publiczny Program Dzień 2</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/dBUbwckpOMQ
+</div><figcaption>Publiczny Program</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/EtDyyadvAq0
+</div><figcaption>Publiczny Program</figcaption></figure>

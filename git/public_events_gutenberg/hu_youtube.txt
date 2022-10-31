@@ -1,0 +1,18 @@
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/Jh3fvle0jKQ
+</div><figcaption>A baloldal – a tudatalatti problémái</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/BKExtYE_-Mk
+</div><figcaption>Nyilvános program 2. nap, Tanácsok a jobb oldallal kapcsolatban, Hogyan váljunk a tiszta Lélekké?</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/BTCQ21_p46I
+</div><figcaption>Nyilvános program 2. nap, Tanácsok a jobb oldallal kapcsolatban, Hogyan váljunk a tiszta Lélekké?</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/GpoZn324GGk
+</div><figcaption>Nyilvános program, Muladharától a Voidig</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/shAECwIaurU
+</div><figcaption>Nyilvános program, Muladharától a Voidig</figcaption></figure>
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/AY8WdB-1hs8
+</div><figcaption>A feltámadás ideje</figcaption></figure>
